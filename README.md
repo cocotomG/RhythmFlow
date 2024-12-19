@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # music
 
 ## 项目介绍
@@ -135,3 +136,6 @@ file.7z是客户端和服务端所需的静态资源，需要放在`D:\project`�
 `file.7z`的下载路径是https://wwd.lanzouq.com/i64IW07tzd7c
 
 该项目是参考 [music-website](https://github.com/Yin-Hongwei/music-website)所作
+=======
+# RhythmFlow
+>>>>>>> 048783d9447274f2d78d59497fe94f8cb4c9c18d
